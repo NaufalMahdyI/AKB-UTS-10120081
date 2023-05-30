@@ -11,3 +11,5 @@ Tugas pengganti UTS oleh 10120081 - Naufal Mahdy - IF2
 - Bottom Navigation sudah ada di aplikasi
 
 - Dapat Menggunakan ViewPager
+
+- Menambah, Mengedit dan Menghapus Note bisa dilakukan
